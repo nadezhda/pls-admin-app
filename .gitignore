@@ -2,6 +2,7 @@
 # compiled output
 /dist
 /tmp
+/src/**/*.css
 
 # dependencies
 /node_modules
